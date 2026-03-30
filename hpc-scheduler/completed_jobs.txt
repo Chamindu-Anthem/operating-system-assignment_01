@@ -2,3 +2,5 @@
 {"student_id": "123123", "job_name": "chamindu", "execution_time": 12, "priority": 1}
 {"student_id": "11", "job_name": "nethura", "execution_time": 1, "priority": 1}
 {"student_id": "chamindu", "job_name": "develp", "execution_time": 1, "priority": 1}
+{"student_id": "Chamindu14231", "job_name": "Calculate total", "execution_time": 0, "priority": 1}
+{"student_id": "Chamindu123213", "job_name": "Calculate total", "execution_time": 5, "priority": 1}

@@ -8,3 +8,7 @@
 2026-03-30 12:50:11 | Student ID: 123123 | Job: chamindu | Action: Executed 12s | Scheduling: Priority Scheduling
 2026-03-30 12:50:12 | Student ID: 11 | Job: nethura | Action: Executed 1s | Scheduling: Priority Scheduling
 2026-03-30 12:50:13 | Student ID: chamindu | Job: develp | Action: Executed 1s | Scheduling: Priority Scheduling
+2026-03-30 17:17:58 | Student ID: Chamindu14231 | Job: Calculate total | Action: Submitted | Scheduling: N/A
+2026-03-30 17:20:20 | Student ID: Chamindu14231 | Job: Calculate total | Action: Executed 4s | Scheduling: Round Robin
+2026-03-30 17:22:10 | Student ID: Chamindu123213 | Job: Calculate total | Action: Submitted | Scheduling: N/A
+2026-03-30 17:22:19 | Student ID: Chamindu123213 | Job: Calculate total | Action: Executed 5s | Scheduling: Priority Scheduling
